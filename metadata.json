@@ -1,0 +1,7 @@
+{
+  "name": "IA&C Chat Bot",
+  "description": "A simple and elegant chat bot powered by the Gemini API. Users can ask questions and receive intelligent responses from the gemini-2.5-flash model in a real-time conversational interface.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
